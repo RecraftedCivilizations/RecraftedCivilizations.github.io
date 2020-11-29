@@ -6,6 +6,7 @@ com.recraftedcivilizations.charactercards.cards
 com.recraftedcivilizations.charactercards.commands
 com.recraftedcivilizations.charactercards.listeners
 com.recraftedcivilizations.charactercards.parser
+com.recraftedcivilizations.charactercards.parser.datasources
 com.recraftedcivilizations.charactercards.utils
 com.recraftedcivilizations.charactercards.utils.serializer
 
