@@ -4,8 +4,6 @@ $dokka.linkExtension:html
 com.recraftedcivilizations.charactercards
 com.recraftedcivilizations.charactercards.cards
 com.recraftedcivilizations.charactercards.commands
-com.recraftedcivilizations.charactercards.inapi
-com.recraftedcivilizations.charactercards.inapi.enjin
 com.recraftedcivilizations.charactercards.listeners
 com.recraftedcivilizations.charactercards.parser
 com.recraftedcivilizations.charactercards.parser.datasources
