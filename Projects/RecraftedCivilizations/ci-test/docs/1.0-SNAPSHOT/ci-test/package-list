@@ -1,5 +1,7 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
-
+$dokka.location:////PointingToDeclaration/[root]/index.html
+$dokka.location:/Main///PointingToDeclaration/[root]/-main/index.html
+$dokka.location:/Main/Main/#/PointingToDeclaration/[root]/-main/-main.html
 
 

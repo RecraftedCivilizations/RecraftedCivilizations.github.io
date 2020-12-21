@@ -1,1 +1,1 @@
-var pages = []
+var pages = [{"name":"class Main","description":"Main","location":"ci-test/[root]/-main/index.html","searchKeys":["Main","class Main"]},{"name":"fun Main()","description":"Main.Main","location":"ci-test/[root]/-main/-main.html","searchKeys":["Main","fun Main()"]}]
