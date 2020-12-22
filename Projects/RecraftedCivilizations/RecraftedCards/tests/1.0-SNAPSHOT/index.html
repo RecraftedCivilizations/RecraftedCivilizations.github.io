@@ -20,7 +20,7 @@
 <tr>
 <td>
 <div class="infoBox" id="tests">
-<div class="counter">12</div>
+<div class="counter">40</div>
 <p>tests</p>
 </div>
 </td>
@@ -32,13 +32,13 @@
 </td>
 <td>
 <div class="infoBox" id="ignored">
-<div class="counter">0</div>
+<div class="counter">2</div>
 <p>ignored</p>
 </div>
 </td>
 <td>
 <div class="infoBox" id="duration">
-<div class="counter">0.086s</div>
+<div class="counter">0.547s</div>
 <p>duration</p>
 </div>
 </td>
@@ -47,7 +47,7 @@
 </div>
 </td>
 <td>
-<div class="infoBox success" id="successRate">
+<div class="infoBox skipped" id="successRate">
 <div class="percent">100%</div>
 <p>successful</p>
 </div>
@@ -58,13 +58,29 @@
 <div id="tabs">
 <ul class="tabLinks">
 <li>
-<a href="#tab0">Packages</a>
+<a href="#tab0">Ignored tests</a>
 </li>
 <li>
-<a href="#tab1">Classes</a>
+<a href="#tab1">Packages</a>
+</li>
+<li>
+<a href="#tab2">Classes</a>
 </li>
 </ul>
 <div id="tab0" class="tab">
+<h2>Ignored tests</h2>
+<ul class="linkList">
+<li>
+<a href="classes/com.recraftedcivilizations.charactercards.parser.datasources.SQLDataSourceTest.html">SQLDataSourceTest</a>.
+<a href="classes/com.recraftedcivilizations.charactercards.parser.datasources.SQLDataSourceTest.html#getCard()">getCard()</a>
+</li>
+<li>
+<a href="classes/com.recraftedcivilizations.charactercards.parser.datasources.SQLDataSourceTest.html">SQLDataSourceTest</a>.
+<a href="classes/com.recraftedcivilizations.charactercards.parser.datasources.SQLDataSourceTest.html#setCard()">setCard()</a>
+</li>
+</ul>
+</div>
+<div id="tab1" class="tab">
 <h2>Packages</h2>
 <table>
 <thead>
@@ -82,20 +98,50 @@
 <td class="success">
 <a href="packages/com.recraftedcivilizations.charactercards.cards.html">com.recraftedcivilizations.charactercards.cards</a>
 </td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td>0.014s</td>
+<td class="success">100%</td>
+</tr>
+<tr>
+<td class="success">
+<a href="packages/com.recraftedcivilizations.charactercards.inapi.enjin.html">com.recraftedcivilizations.charactercards.inapi.enjin</a>
+</td>
+<td>14</td>
+<td>0</td>
+<td>0</td>
+<td>0.266s</td>
+<td class="success">100%</td>
+</tr>
+<tr>
+<td class="success">
+<a href="packages/com.recraftedcivilizations.charactercards.parser.html">com.recraftedcivilizations.charactercards.parser</a>
+</td>
 <td>3</td>
 <td>0</td>
 <td>0</td>
-<td>0.059s</td>
+<td>0.087s</td>
 <td class="success">100%</td>
+</tr>
+<tr>
+<td class="skipped">
+<a href="packages/com.recraftedcivilizations.charactercards.parser.datasources.html">com.recraftedcivilizations.charactercards.parser.datasources</a>
+</td>
+<td>4</td>
+<td>0</td>
+<td>2</td>
+<td>0.093s</td>
+<td class="skipped">100%</td>
 </tr>
 <tr>
 <td class="success">
 <a href="packages/com.recraftedcivilizations.charactercards.utils.html">com.recraftedcivilizations.charactercards.utils</a>
 </td>
-<td>8</td>
+<td>11</td>
 <td>0</td>
 <td>0</td>
-<td>0.003s</td>
+<td>0.036s</td>
 <td class="success">100%</td>
 </tr>
 <tr>
@@ -105,13 +151,13 @@
 <td>1</td>
 <td>0</td>
 <td>0</td>
-<td>0.024s</td>
+<td>0.051s</td>
 <td class="success">100%</td>
 </tr>
 </tbody>
 </table>
 </div>
-<div id="tab1" class="tab">
+<div id="tab2" class="tab">
 <h2>Classes</h2>
 <table>
 <thead>
@@ -132,7 +178,97 @@
 <td>3</td>
 <td>0</td>
 <td>0</td>
-<td>0.059s</td>
+<td>0.001s</td>
+<td class="success">100%</td>
+</tr>
+<tr>
+<td class="success">
+<a href="classes/com.recraftedcivilizations.charactercards.cards.CharacterCardTest.html">com.recraftedcivilizations.charactercards.cards.CharacterCardTest</a>
+</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>0.013s</td>
+<td class="success">100%</td>
+</tr>
+<tr>
+<td class="success">
+<a href="classes/com.recraftedcivilizations.charactercards.inapi.enjin.EnjinAPITest.html">com.recraftedcivilizations.charactercards.inapi.enjin.EnjinAPITest</a>
+</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>0.082s</td>
+<td class="success">100%</td>
+</tr>
+<tr>
+<td class="success">
+<a href="classes/com.recraftedcivilizations.charactercards.inapi.enjin.RequestTest.html">com.recraftedcivilizations.charactercards.inapi.enjin.RequestTest</a>
+</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td>0.184s</td>
+<td class="success">100%</td>
+</tr>
+<tr>
+<td class="success">
+<a href="classes/com.recraftedcivilizations.charactercards.inapi.enjin.ResponseTest.html">com.recraftedcivilizations.charactercards.inapi.enjin.ResponseTest</a>
+</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>0s</td>
+<td class="success">100%</td>
+</tr>
+<tr>
+<td class="success">
+<a href="classes/com.recraftedcivilizations.charactercards.parser.ConfigParserTest.html">com.recraftedcivilizations.charactercards.parser.ConfigParserTest</a>
+</td>
+<td>3</td>
+<td>0</td>
+<td>0</td>
+<td>0.087s</td>
+<td class="success">100%</td>
+</tr>
+<tr>
+<td class="skipped">
+<a href="classes/com.recraftedcivilizations.charactercards.parser.datasources.SQLDataSourceTest.html">com.recraftedcivilizations.charactercards.parser.datasources.SQLDataSourceTest</a>
+</td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+<td>0s</td>
+<td class="skipped">-</td>
+</tr>
+<tr>
+<td class="success">
+<a href="classes/com.recraftedcivilizations.charactercards.parser.datasources.YMLDataSourceTest.html">com.recraftedcivilizations.charactercards.parser.datasources.YMLDataSourceTest</a>
+</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>0.093s</td>
+<td class="success">100%</td>
+</tr>
+<tr>
+<td class="success">
+<a href="classes/com.recraftedcivilizations.charactercards.utils.QueryForFieldsKtTest.html">com.recraftedcivilizations.charactercards.utils.QueryForFieldsKtTest</a>
+</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0.009s</td>
+<td class="success">100%</td>
+</tr>
+<tr>
+<td class="success">
+<a href="classes/com.recraftedcivilizations.charactercards.utils.SupportedTypesKtTest.html">com.recraftedcivilizations.charactercards.utils.SupportedTypesKtTest</a>
+</td>
+<td>2</td>
+<td>0</td>
+<td>0</td>
+<td>0.023s</td>
 <td class="success">100%</td>
 </tr>
 <tr>
@@ -142,7 +278,7 @@
 <td>8</td>
 <td>0</td>
 <td>0</td>
-<td>0.003s</td>
+<td>0.004s</td>
 <td class="success">100%</td>
 </tr>
 <tr>
@@ -152,7 +288,7 @@
 <td>1</td>
 <td>0</td>
 <td>0</td>
-<td>0.024s</td>
+<td>0.051s</td>
 <td class="success">100%</td>
 </tr>
 </tbody>
@@ -166,7 +302,7 @@
 <input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
 </label>
 </div>Generated by 
-<a href="http://www.gradle.org">Gradle 6.3</a> at Dec 6, 2020 12:28:08 PM</p>
+<a href="http://www.gradle.org">Gradle 6.3</a> at Dec 22, 2020 12:57:43 PM</p>
 </div>
 </div>
 </body>
