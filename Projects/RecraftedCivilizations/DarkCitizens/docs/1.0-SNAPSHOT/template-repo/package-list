@@ -5,6 +5,7 @@ com.github.recraftedcivilizations
 com.github.recraftedcivilizations.dPlayer
 com.github.recraftedcivilizations.groups
 com.github.recraftedcivilizations.jobs
+com.github.recraftedcivilizations.parser
 com.github.recraftedcivilizations.parser.dataparser
 com.github.recraftedcivilizations.tasks
 com.github.recraftedcivilizations.tasks.actions
