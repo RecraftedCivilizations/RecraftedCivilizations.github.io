@@ -1,12 +1,12 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
 
-com.github.recraftedcivilizations
-com.github.recraftedcivilizations.dPlayer
-com.github.recraftedcivilizations.groups
-com.github.recraftedcivilizations.jobs
-com.github.recraftedcivilizations.parser
-com.github.recraftedcivilizations.parser.dataparser
-com.github.recraftedcivilizations.tasks
-com.github.recraftedcivilizations.tasks.actions
+com.github.recraftedcivilizations.darkcitizens
+com.github.recraftedcivilizations.darkcitizens.dPlayer
+com.github.recraftedcivilizations.darkcitizens.groups
+com.github.recraftedcivilizations.darkcitizens.jobs
+com.github.recraftedcivilizations.darkcitizens.parser
+com.github.recraftedcivilizations.darkcitizens.parser.dataparser
+com.github.recraftedcivilizations.darkcitizens.tasks
+com.github.recraftedcivilizations.darkcitizens.tasks.actions
 
