@@ -7,8 +7,10 @@ com.github.recraftedcivilizations.darkcitizens.dPlayer
 com.github.recraftedcivilizations.darkcitizens.groups
 com.github.recraftedcivilizations.darkcitizens.gui
 com.github.recraftedcivilizations.darkcitizens.jobs
+com.github.recraftedcivilizations.darkcitizens.listeners
 com.github.recraftedcivilizations.darkcitizens.parser
 com.github.recraftedcivilizations.darkcitizens.parser.dataparser
+com.github.recraftedcivilizations.darkcitizens.runnables
 com.github.recraftedcivilizations.darkcitizens.tasks
 com.github.recraftedcivilizations.darkcitizens.tasks.actions
 
