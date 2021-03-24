@@ -4,6 +4,7 @@ $dokka.linkExtension:html
 com.github.recraftedcivilizations.darkcitizens
 com.github.recraftedcivilizations.darkcitizens.commands
 com.github.recraftedcivilizations.darkcitizens.dPlayer
+com.github.recraftedcivilizations.darkcitizens.election
 com.github.recraftedcivilizations.darkcitizens.groups
 com.github.recraftedcivilizations.darkcitizens.gui
 com.github.recraftedcivilizations.darkcitizens.jobs
