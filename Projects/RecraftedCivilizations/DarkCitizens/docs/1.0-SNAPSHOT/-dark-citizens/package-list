@@ -11,7 +11,7 @@ com.github.recraftedcivilizations.darkcitizens.groups
 com.github.recraftedcivilizations.darkcitizens.gui
 com.github.recraftedcivilizations.darkcitizens.jobs
 com.github.recraftedcivilizations.darkcitizens.jobs.elected
-com.github.recraftedcivilizations.darkcitizens.jobs.special.major
+com.github.recraftedcivilizations.darkcitizens.jobs.special.mayor
 com.github.recraftedcivilizations.darkcitizens.laws
 com.github.recraftedcivilizations.darkcitizens.listeners
 com.github.recraftedcivilizations.darkcitizens.parser
