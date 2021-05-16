@@ -2,6 +2,8 @@ $dokka.format:html-v1
 $dokka.linkExtension:html
 
 com.github.recraftedcivilizations.darkcitizens
+com.github.recraftedcivilizations.darkcitizens.actions
+com.github.recraftedcivilizations.darkcitizens.actions.actions
 com.github.recraftedcivilizations.darkcitizens.api.PAPI
 com.github.recraftedcivilizations.darkcitizens.commands
 com.github.recraftedcivilizations.darkcitizens.dPlayer
@@ -18,5 +20,4 @@ com.github.recraftedcivilizations.darkcitizens.parser
 com.github.recraftedcivilizations.darkcitizens.parser.dataparser
 com.github.recraftedcivilizations.darkcitizens.runnables
 com.github.recraftedcivilizations.darkcitizens.tasks
-com.github.recraftedcivilizations.darkcitizens.tasks.actions
 
