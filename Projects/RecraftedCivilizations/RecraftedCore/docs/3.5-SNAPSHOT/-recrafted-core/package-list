@@ -1,0 +1,15 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+
+com.github.darkvanityoflight.recraftedcore
+com.github.darkvanityoflight.recraftedcore.api
+com.github.darkvanityoflight.recraftedcore.commands
+com.github.darkvanityoflight.recraftedcore.configparser
+com.github.darkvanityoflight.recraftedcore.configparser.utils
+com.github.darkvanityoflight.recraftedcore.gui
+com.github.darkvanityoflight.recraftedcore.gui.elements
+com.github.darkvanityoflight.recraftedcore.utils.itemutils
+com.github.darkvanityoflight.recraftedcore.utils.notifyutils
+com.github.darkvanityoflight.recraftedcore.utils.tagutils
+com.github.darkvanityoflight.recraftedcore.utils.tagutils.persistentdatatypes
+
