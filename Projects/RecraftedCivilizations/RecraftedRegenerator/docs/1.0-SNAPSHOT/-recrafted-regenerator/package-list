@@ -1,0 +1,53 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.github.recraftedcivilizations.dataparser.blockparser////PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser.blockparser/index.html
+$dokka.location:com.github.recraftedcivilizations.dataparser.blockparser//fileName/#/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser.blockparser/file-name.html
+$dokka.location:com.github.recraftedcivilizations.dataparser.blockparser/IParseBlocks///PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser.blockparser/-i-parse-blocks/index.html
+$dokka.location:com.github.recraftedcivilizations.dataparser.blockparser/IParseBlocks/getBlockType/#org.bukkit.Location/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser.blockparser/-i-parse-blocks/get-block-type.html
+$dokka.location:com.github.recraftedcivilizations.dataparser.blockparser/IParseBlocks/isStored/#org.bukkit.Location/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser.blockparser/-i-parse-blocks/is-stored.html
+$dokka.location:com.github.recraftedcivilizations.dataparser.blockparser/IParseBlocks/removeBlock/#org.bukkit.Location/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser.blockparser/-i-parse-blocks/remove-block.html
+$dokka.location:com.github.recraftedcivilizations.dataparser.blockparser/IParseBlocks/storeBlock/#org.bukkit.block.Block/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser.blockparser/-i-parse-blocks/store-block.html
+$dokka.location:com.github.recraftedcivilizations.dataparser.blockparser/YAMLBlockParser///PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser.blockparser/-y-a-m-l-block-parser/index.html
+$dokka.location:com.github.recraftedcivilizations.dataparser.blockparser/YAMLBlockParser/YAMLBlockParser/#kotlin.String/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser.blockparser/-y-a-m-l-block-parser/-y-a-m-l-block-parser.html
+$dokka.location:com.github.recraftedcivilizations.dataparser.blockparser/YAMLBlockParser/filePath/#/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser.blockparser/-y-a-m-l-block-parser/file-path.html
+$dokka.location:com.github.recraftedcivilizations.dataparser.blockparser/YAMLBlockParser/getBlockType/#org.bukkit.Location/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser.blockparser/-y-a-m-l-block-parser/get-block-type.html
+$dokka.location:com.github.recraftedcivilizations.dataparser.blockparser/YAMLBlockParser/isStored/#org.bukkit.Location/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser.blockparser/-y-a-m-l-block-parser/is-stored.html
+$dokka.location:com.github.recraftedcivilizations.dataparser.blockparser/YAMLBlockParser/removeBlock/#org.bukkit.Location/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser.blockparser/-y-a-m-l-block-parser/remove-block.html
+$dokka.location:com.github.recraftedcivilizations.dataparser.blockparser/YAMLBlockParser/storeBlock/#org.bukkit.block.Block/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser.blockparser/-y-a-m-l-block-parser/store-block.html
+$dokka.location:com.github.recraftedcivilizations.dataparser.timeparser////PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser.timeparser/index.html
+$dokka.location:com.github.recraftedcivilizations.dataparser.timeparser/CachedTimeParser///PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser.timeparser/-cached-time-parser/index.html
+$dokka.location:com.github.recraftedcivilizations.dataparser.timeparser/CachedTimeParser/CachedTimeParser/#/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser.timeparser/-cached-time-parser/-cached-time-parser.html
+$dokka.location:com.github.recraftedcivilizations.dataparser.timeparser/CachedTimeParser/getRespawnTime/#org.bukkit.Location/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser.timeparser/-cached-time-parser/get-respawn-time.html
+$dokka.location:com.github.recraftedcivilizations.dataparser.timeparser/CachedTimeParser/setRespawnTime/#org.bukkit.Location#kotlin.Int/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser.timeparser/-cached-time-parser/set-respawn-time.html
+$dokka.location:com.github.recraftedcivilizations.dataparser.timeparser/IParseTimes///PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser.timeparser/-i-parse-times/index.html
+$dokka.location:com.github.recraftedcivilizations.dataparser.timeparser/IParseTimes/getRespawnTime/#org.bukkit.Location/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser.timeparser/-i-parse-times/get-respawn-time.html
+$dokka.location:com.github.recraftedcivilizations.dataparser.timeparser/IParseTimes/setRespawnTime/#org.bukkit.Location#kotlin.Int/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser.timeparser/-i-parse-times/set-respawn-time.html
+$dokka.location:com.github.recraftedcivilizations.dataparser////PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser/index.html
+$dokka.location:com.github.recraftedcivilizations.dataparser/DataParser///PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser/-data-parser/index.html
+$dokka.location:com.github.recraftedcivilizations.dataparser/DataParser/DataParser/#com.github.recraftedcivilizations.dataparser.blockparser.IParseBlocks#com.github.recraftedcivilizations.dataparser.timeparser.IParseTimes/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser/-data-parser/-data-parser.html
+$dokka.location:com.github.recraftedcivilizations.dataparser/DataParser/getBlockType/#org.bukkit.Location/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser/-data-parser/get-block-type.html
+$dokka.location:com.github.recraftedcivilizations.dataparser/DataParser/getRespawnTime/#org.bukkit.Location/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser/-data-parser/get-respawn-time.html
+$dokka.location:com.github.recraftedcivilizations.dataparser/DataParser/isStored/#org.bukkit.Location/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser/-data-parser/is-stored.html
+$dokka.location:com.github.recraftedcivilizations.dataparser/DataParser/removeBlock/#org.bukkit.Location/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser/-data-parser/remove-block.html
+$dokka.location:com.github.recraftedcivilizations.dataparser/DataParser/setRespawnTime/#org.bukkit.Location#kotlin.Int/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser/-data-parser/set-respawn-time.html
+$dokka.location:com.github.recraftedcivilizations.dataparser/DataParser/storeBlock/#org.bukkit.block.Block/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser/-data-parser/store-block.html
+$dokka.location:com.github.recraftedcivilizations.dataparser/IParseData///PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.dataparser/-i-parse-data/index.html
+$dokka.location:com.github.recraftedcivilizations.listeners////PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.listeners/index.html
+$dokka.location:com.github.recraftedcivilizations.listeners/BlockBreakListener///PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.listeners/-block-break-listener/index.html
+$dokka.location:com.github.recraftedcivilizations.listeners/BlockBreakListener/BlockBreakListener/#com.github.recraftedcivilizations.dataparser.IParseData#com.github.recraftedcivilizations.ConfigParser/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.listeners/-block-break-listener/-block-break-listener.html
+$dokka.location:com.github.recraftedcivilizations.listeners/BlockBreakListener/onBlockBreak/#org.bukkit.event.block.BlockBreakEvent/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.listeners/-block-break-listener/on-block-break.html
+$dokka.location:com.github.recraftedcivilizations////PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations/index.html
+$dokka.location:com.github.recraftedcivilizations//getMaterial/org.bukkit.configuration.Configuration#kotlin.String#org.bukkit.Material/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations/get-material.html
+$dokka.location:com.github.recraftedcivilizations//getMaterial/org.bukkit.configuration.Configuration#kotlin.String/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations/get-material.html
+$dokka.location:com.github.recraftedcivilizations/ConfigParser///PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations/-config-parser/index.html
+$dokka.location:com.github.recraftedcivilizations/ConfigParser/ConfigParser/#org.bukkit.configuration.Configuration/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations/-config-parser/-config-parser.html
+$dokka.location:com.github.recraftedcivilizations/ConfigParser/defaultDelay/#/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations/-config-parser/default-delay.html
+$dokka.location:com.github.recraftedcivilizations/ConfigParser/emptyBlock/#/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations/-config-parser/empty-block.html
+$dokka.location:com.github.recraftedcivilizations/ConfigParser/load/#/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations/-config-parser/load.html
+$dokka.location:com.github.recraftedcivilizations/ConfigParser/respawnTimes/#/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations/-config-parser/respawn-times.html
+com.github.recraftedcivilizations
+com.github.recraftedcivilizations.dataparser
+com.github.recraftedcivilizations.dataparser.blockparser
+com.github.recraftedcivilizations.dataparser.timeparser
+com.github.recraftedcivilizations.listeners
+
