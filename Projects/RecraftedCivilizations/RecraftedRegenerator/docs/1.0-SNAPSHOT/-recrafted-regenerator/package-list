@@ -1,6 +1,10 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
 $dokka.location:com.github.recraftedcivilizations.commands////PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.commands/index.html
+$dokka.location:com.github.recraftedcivilizations.commands/MigrateOres///PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.commands/-migrate-ores/index.html
+$dokka.location:com.github.recraftedcivilizations.commands/MigrateOres/MigrateOres/#com.github.recraftedcivilizations.ConfigParser#com.github.recraftedcivilizations.dataparser.DataParser/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.commands/-migrate-ores/-migrate-ores.html
+$dokka.location:com.github.recraftedcivilizations.commands/MigrateOres/onCommand/#org.bukkit.command.CommandSender#org.bukkit.command.Command#kotlin.String#kotlin.Array[kotlin.String]/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.commands/-migrate-ores/on-command.html
+$dokka.location:com.github.recraftedcivilizations.commands/MigrateOres/onPlayerInteract/#org.bukkit.event.player.PlayerInteractEvent/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.commands/-migrate-ores/on-player-interact.html
 $dokka.location:com.github.recraftedcivilizations.commands/PlaceRegenOre///PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.commands/-place-regen-ore/index.html
 $dokka.location:com.github.recraftedcivilizations.commands/PlaceRegenOre/PlaceRegenOre/#/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.commands/-place-regen-ore/-place-regen-ore.html
 $dokka.location:com.github.recraftedcivilizations.commands/PlaceRegenOre/isInRegenMode/#org.bukkit.entity.Player/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations.commands/-place-regen-ore/is-in-regen-mode.html
@@ -61,6 +65,8 @@ $dokka.location:com.github.recraftedcivilizations/ConfigParser/emptyBlock/#/Poin
 $dokka.location:com.github.recraftedcivilizations/ConfigParser/interval/#/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations/-config-parser/interval.html
 $dokka.location:com.github.recraftedcivilizations/ConfigParser/load/#/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations/-config-parser/load.html
 $dokka.location:com.github.recraftedcivilizations/ConfigParser/respawnTimes/#/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations/-config-parser/respawn-times.html
+$dokka.location:com.github.recraftedcivilizations/RecraftedRegenerator.Companion///PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations/-recrafted-regenerator/-companion/index.html
+$dokka.location:com.github.recraftedcivilizations/RecraftedRegenerator.Companion/plugin/#/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations/-recrafted-regenerator/-companion/plugin.html
 $dokka.location:com.github.recraftedcivilizations/RecraftedRegenerator///PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations/-recrafted-regenerator/index.html
 $dokka.location:com.github.recraftedcivilizations/RecraftedRegenerator/RecraftedRegenerator/#/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations/-recrafted-regenerator/-recrafted-regenerator.html
 $dokka.location:com.github.recraftedcivilizations/RecraftedRegenerator/onEnable/#/PointingToDeclaration/-recrafted-regenerator/com.github.recraftedcivilizations/-recrafted-regenerator/on-enable.html
